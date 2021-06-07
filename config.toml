@@ -1,5 +1,3 @@
-baseURL = "http://advecti.io/"
-languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "jeffprod"
 
